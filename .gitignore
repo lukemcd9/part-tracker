@@ -107,3 +107,4 @@ dmypy.json
 .flaskenv
 .vscode/
 migrations/
+*.db
